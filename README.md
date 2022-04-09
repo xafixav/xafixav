@@ -31,9 +31,17 @@
   
   <div>
   <h1>
-    Frameworks:
+    JavaScript Stacks:
   </h1>
   <img align="center" alt="Xafi-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Xafi-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Xafi-ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img align="center" alt="Xafi-JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+</div>
+  
+  <h1>
+    TypeScript Stacks:
+  </h1>
   <img align="center" alt="Xafi-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="Xafi-ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="center" alt="Xafi-JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
