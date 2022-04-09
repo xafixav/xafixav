@@ -1,3 +1,4 @@
+<a href="https://github.com/xafixav/xafixav/blob/main/README-pt-br.md" target="_blank">About me in portuguese</a>
 <div align="center">
   <h3>
     Hi there, my name is Gustavo, I’m a full-stack developer JR.
