@@ -5,7 +5,7 @@
   </h3>
 </div>
 <h6>
- - 🌱 I’m currently learning MongoDB.
+ - 🌱 I’m currently learning Python.
 </h6>
 <h6>
  - 😄 Pronouns: He/His.
