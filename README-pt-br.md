@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    Olá, meu nome é Gustavo, Eu sou um desenvolvedor full-stack JR.
+    Olá, meu nome é Gustavo, Eu sou um desenvolvedor backend.
   </h3>
 </div>
 <h6>
@@ -8,9 +8,6 @@
 </h6>
 <h6>
  - 😄 Meus pronomes são: Ele/Dele.
-</h6>
-<h6>
- - ⚡ Um fato engraçado: [] !== []; // verdadeiro
 </h6>
 
 <div>
