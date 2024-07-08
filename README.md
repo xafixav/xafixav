@@ -1,7 +1,7 @@
 <a href="https://github.com/xafixav/xafixav/blob/main/README-pt-br.md" target="_blank">About me in portuguese</a>
 <div align="center">
   <h3>
-    Hi there, my name is Gustavo, I’m a full-stack developer JR.
+    Hi there, my name is Gustavo, I'm a backend developer.
   </h3>
 </div>
 <h6>
@@ -9,9 +9,6 @@
 </h6>
 <h6>
  - 😄 Pronouns: He/His.
-</h6>
-<h6>
- - ⚡ Fun fact: [] !== []; // true
 </h6>
 
 <div>
