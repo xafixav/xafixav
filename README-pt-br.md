@@ -4,7 +4,7 @@
   </h3>
 </div>
 <h6>
- - 🌱 Atualment estou aprendendo Python.
+ - 🌱 Atualment estou aprendendo Rust. 🦀
 </h6>
 <h6>
  - 😄 Meus pronomes são: Ele/Dele.
