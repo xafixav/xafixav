@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/xafixav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xafixav&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xafixav&count_private=true&show_icons=true&hide=contribs&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xafixav&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
