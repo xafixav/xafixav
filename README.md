@@ -1,7 +1,7 @@
 <a href="https://github.com/xafixav/xafixav/blob/main/README-pt-br.md" target="_blank">About me in portuguese</a>
 <div align="center">
   <h3>
-    Hi there, my name is Gustavo, I'm a backend developer.
+    Hi there, my name is Gustavo, I'm a Developer.
   </h3>
 </div>
 <div align="center">
