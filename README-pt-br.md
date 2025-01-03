@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    Olá, meu nome é Gustavo, Eu sou um desenvolvedor backend.
+    Olá, meu nome é Gustavo, Eu sou um desenvolvedor.
   </h3>
 </div>
 <div align="center">
